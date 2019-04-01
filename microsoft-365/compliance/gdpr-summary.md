@@ -1,4 +1,3 @@
-This is a test
 # GDPR Summary #
 
 The General Data Protection Regulation (GDPR) gives people specific rights (summarized [here][GDPRrightsSummary]) to manage personal data collected about them by organizations. These include the right to request changes, obtain copies (“data portability”), restrict processing, and deletion (“erasure”) of their personal data.
