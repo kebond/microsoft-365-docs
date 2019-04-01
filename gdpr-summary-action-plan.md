@@ -1,4 +1,3 @@
-This is a test
 # GDPR Action Plan #
 
 The General Data Protection Regulation [(GDPR)][GDPRlink] introduces new rules for companies, government agencies, and other organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents. The GDPR applies no matter where you or your enterprise are located.
