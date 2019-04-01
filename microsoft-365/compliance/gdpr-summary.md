@@ -1,0 +1,113 @@
+This is a test
+# GDPR Summary #
+
+The General Data Protection Regulation (GDPR) gives people specific rights (summarized [here][GDPRrightsSummary]) to manage personal data collected about them by organizations. These include the right to request changes, obtain copies (“data portability”), restrict processing, and deletion (“erasure”) of their personal data.
+
+This document outlines honoring these rights within Microsoft services and products. There are two parts. [Part 1](#part-1:-what-is-the-gdpr?) provides additional detail about the GDPR. [Part 2](#part-2) will provide some details, along with thinking points and prompts, to help you in meeting GDPR standards. A [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccountReady] provide additional resources for assessing and implementing GDPR compliance.
+
+## Part 1: What is the GDPR? ##
+
+The General Data Protection Regulation (GDPR) gives rights to people (referred to as “data subjects”) to manage the personal data collected by an organization (known as a “data controller”, or simply “controller”). Data subjects can exercise these rights through a [Data Subject Request (DSR)][GDPRdsr]. The controller is required to provide a timely response to DSRs, data breaches and perform [Data Protection Impact Assessments (DPIAs)][GDPR)365DPIA].
+
+GDPR [terms][gdprTerms] that will be helpful in this document:
+ * _Data Controller (Controller)_ – A legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.  
+ * _Personal data_ and _data subject_ – Any information relating to an identified or identifiable natural person (data subject); an identifiable natural person is one who can be identified, directly or indirectly.  
+ * _Processor_ – A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.  
+ * _Customer Data_ – Data produced and stored in the day-to-day operations of running your business.
+
+Several points should be considered when implementing or assessing GDPR requirements.
+1. Developing or evaluating your GDPR-compliance data privacy policy.  
+1. Assessing the data security of your organization.  
+1. Who is your data controller?
+1. What data security processes may you have to perform?
+
+The [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccReady] may prompt additional thinking points.
+
+Fulfilling GDPR standards involves the tasks below, which will be expanded in [Part 2](#part-2:-the-gdrp-in-action).
+1. **Data Subject Request ([DSR][GDPRdsr])**. A formal request by a data subject to a controller to take an action (change, restrict, access) regarding their personal data.  
+1. **[Breach Notification][GDPRbreach]**. Under GDPR, a personal data breach is “a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored or otherwise processed.”
+1. **Data Protection Assessment ([DPIA][GDPRdpia])**. Data controllers are required under GDPR to prepare a DPIA for data operations that are “likely to result in a high risk to the rights and freedoms of natural persons.”  
+As mentioned above, the [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccReady] provide a guide to implementing or assessing GDPR conformance using Microsoft products and services.
+
+## Part 2: the GDPR in action ##
+
+The following section outlines General Data Protection Regulation (GDPR) actions using Microsoft products and services. Completing GDPR tasks may vary depending on your Microsoft configuration. Follow the links in the [Part 1](#part-1:-what-is-the-gdpr?) list of tasks needed to fulfill GDPR standards for details regarding your implementation. More detailed information on specific processes can be found at the [Microsoft Service Trust Portal][GDPRMSTP].
+
+### Data Subject Request (DSR) ###
+
+Data Subject Requests (DSRs) provide a means for data subjects to exercise their rights under GDPR. The Controller’s primary DSR task is discovery of relevant personal data. Several actions on personal data may be requested, such as access, or deletion (see Introduction to DSRs for specifics details.) The Controller is responsible for responding in a timely manner, consistent with the GDPR. For more complete details refer to Data Subject Requests for the GDPR. You should make several considerations regarding a DSR:  
+1. What actions will be required to complete a DSR?  
+     * DSRs involve six activities: Discovery, Access, Rectification, Restriction, Export and Deletion.
+1. What are your data sources?  
+     * A large fraction of an organization’s data is generated in [Office applications][GDPRofficeApps] such as Excel and Outlook. You may also find data relevant to a DSR in [Insights][GDPRinsights] generated by Microsoft products and services, and [system-generated logs][GDPRlogs].
+1. What kinds of data will need to be searched?  
+     * Sources of personal data can be grouped into three categories: Customer Data, Insights generated by Microsoft products and services as system-generated logs.
+1. How will personal data be searched?  
+     * Searching for personal data may vary across Microsoft products and services (Office 365, Azure Active Directory, etc.) In Microsoft Office, you can use the [Content Search][GDPRcontentSearch] for most DSR-related data searches. Some Microsoft applications also have [in-app search][GDPRinAppSearch] capacity. Administrators may access [system-generated logs][GDPRlogsAdmin] associated with a user’s activity. For details, reference [Data Subject Requests for the GDPR][GDPRdsr].
+1. In what formats should personal data be made available?  
+     * The GDPR “right of data portability” allows a data subject to request an electronic copy of personal data in a “structured, commonly used, machine-readable format”, and to request that your organization transmit these electronic files to another data controller. For information about GDPR-compliant Office file formats, see Exporting Personal Data.
+
+### Breach Notification ###
+
+As a data processor, Microsoft will ensure that our customers are able to meet the GDPR’s breach notification requirements. Data controllers are responsible for assessing risks to data privacy and determining whether a breach requires notification of a customer’s DPA. Microsoft will provide the information needed, in conjunction with your GDPR compliance policy, to make that assessment. More information about how Microsoft detects and responds to a breach of personal data in [Data Breach Notification Under the GDPR][GDPRbreachNotif].
+
+Breach notifications involve Controllers, Processors and Data Subjects. Some prior considerations include:  
+1. What information about a breach should be communicated to data subjects?  
+2. How will you communicate to your data subjects (email, written notification, etc.)?
+
+### Data Protection Impact Assessent ###
+
+Under GDPR, data controllers are required to prepare a Data Protection Impact Assessment ([DPIA][GDPRdpia]) for processing operations that are “likely to result in a high risk to the rights and freedoms of natural persons.” There is nothing inherent in Microsoft products and services that necessitate the creation of a DPIA. Rather, it depends on the details of your Microsoft configuration.
+
+Here are some items you should consider when preparing to conduct a DPIA:  
+1. What data activities in your organization may compromise your personal data security?  
+1. Could your configuration of Microsoft products and services be vulnerable to data breach?  
+1. When should you conduct a DPIA?  
+ * Article 35 of the GDPR requires a DPIA “[w]here a type of processing in particular using new technologies, and taking into account the nature, scope, context and purposes of the processing, is likely to result in a high risk to the rights and freedoms of natural persons.” Specific examples of risk factors in Office are addressed in [Determining Whether a DPIA is Needed][GDPRdpiaNeeded].  
+4. What is required to complete a DPIA?  
+ * The GDPR mandates that a DPIA include:  
+    * Assessment of the necessity, and proportionality of data processing in relation to the purpose of the DPIA.
+    * An assessment of the risks to the rights and freedoms of natural persons.
+    * Intended measures to address the risks, safeguards, security measures and mechanisms to ensure the protection of personal data and demonstrate compliance with the GDPR.
+
+For example, a list of details that must be considered in Office can be found in [Contents of DPIA][GDPRdpiaContents].
+
+### Accountability Readiness Checklists for the GDPR ###
+
+These [checklists][GDPRaccountReady] provide a convenient way to access information you may need to support the GDPR using Microsoft products. You can manage the items in this checklist with the [Compliance Manager][GDPRcomplianceMgr] by referencing the Control ID and Control Title under Customer Managed Controls in the GDPR tile. In addition, items under [5. Data Protection & Security][GDPRdataProtSec] provide references to controls listed under Microsoft Managed Controls in the GDPR tile in the Compliance Manager.
+
+
+[GDPRrightsSummary]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365
+[GDPRactPlan]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-action-plan
+[GDPRaccountReady]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-arc
+
+[GDPRdsr]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-data-subject-requests?toc=/microsoft-365/enterprise/toc.json
+[GDPR)365DPIA]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-data-protection-impact-assessments
+[gdprTerms]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365?toc=/microsoft-365/enterprise/toc.json#terminology
+
+[GDPRactPlan]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-action-plan
+[GDPRaccReady]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-arc
+
+[GDPRdsr]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-data-subject-requests?toc=/microsoft-365/enterprise/toc.json
+
+[GDPRbreach]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-data-subject-requests?toc=/microsoft-365/enterprise/toc.json
+[GDPRbreach]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-breach-notification?toc=/microsoft-365/enterprise/toc.json
+[GDPRdpia]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-data-protection-impact-assessments
+
+[GDPRMSTP]: https://servicetrust.microsoft.com/
+
+[GDPRofficeApps]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365?toc=/microsoft-365/enterprise/toc.json#using-the-content-search-ediscovery-tool-to-respond-to-dsrs
+[GDPRinsights]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365
+[GDPRlogs]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365?toc=/microsoft-365/enterprise/toc.json#part-3-responding-to-dsrs-for-system-generated-logs
+[GDPRcontentSearch]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365?toc=/microsoft-365/enterprise/toc.json#using-the-content-search-ediscovery-tool-to-respond-to-dsrs
+[GDPRinAppSearch]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365#using-in-app-functionality-to-respond-to-dsrs
+[GDPRlogsAdmin]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs
+
+[GDPRbreachNotif]: https://servicetrust.microsoft.com/ViewPage/GDPRBreach
+
+[GDPRdpia]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-data-protection-impact-assessments
+[GDPRdpiaNeeded]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed
+[GDPRdpiaContents]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia
+
+[GDPRcomplianceMgr]: https://servicetrust.microsoft.com/ComplianceManager
+[GDPRdataProtSec]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-arc-office365#5-data-protection--security
