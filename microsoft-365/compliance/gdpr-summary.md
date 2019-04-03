@@ -47,9 +47,8 @@ Data Subject Requests provide a means for data subjects to exercise their rights
 
 ### Breach Notification ###
 
-As a data processor, Microsoft will ensure that our customers are able to meet the GDPR’s breach notification requirements. Data controllers are responsible for assessing risks to data privacy and determining whether a breach requires notification of a customer’s DPA. Microsoft will provide the information needed, in conjunction with your GDPR compliance policy, to make that assessment. More information about how Microsoft detects and responds to a breach of personal data in [Data Breach Notification Under the GDPR][GDPRbreachNotif].
+As a data processor, Microsoft will ensure that our customers are able to meet the GDPR’s breach notification requirements. Data controllers are responsible for assessing risks to data privacy and determining whether a breach requires notification of a customer’s DPA. Microsoft will provide the information needed to make that assessment. More information about how Microsoft detects and responds to a breach of personal data in [Data Breach Notification Under the GDPR][GDPRbreachNotif]. Some breach notification questions are below.
 
-Breach notifications involve Controllers, Processors and Data Subjects. Some prior considerations include:  
 1. What information about a breach should be communicated to data subjects?  
 2. How will you communicate to your data subjects (email, written notification, etc.)?
 
