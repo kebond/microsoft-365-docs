@@ -21,9 +21,9 @@ Several points should be considered when implementing or assessing GDPR requirem
 The [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccReady] may prompt additional thinking points.
 
 The following tasks (expanded in Part 2) are involved to meet GDPR standards. Follow the links in the list for details regarding your implementation.  
-1. **Data Subject Request ([DSR][GDPRdsr])**. A formal request by a data subject to a controller to take an action (change, restrict, access) regarding their personal data.  
-1. **[Breach Notification][GDPRbreach]**. Under GDPR, a personal data breach is “a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored or otherwise processed.”
-1. **Data Protection Assessment ([DPIA][GDPRdpia])**. Data controllers are required under GDPR to prepare a DPIA for data operations that are “likely to result in a high risk to the rights and freedoms of natural persons.”
+1. Data Subject Request ([DSR][GDPRdsr]). A formal request by a data subject to a controller to take an action (change, restrict, access) regarding their personal data.  
+1. [Breach Notification][GDPRbreach]. Under GDPR, a personal data breach is “a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored or otherwise processed.”
+1. Data Protection Assessment ([DPIA][GDPRdpia]). Data controllers are required under GDPR to prepare a DPIA for data operations that are “likely to result in a high risk to the rights and freedoms of natural persons.”
 
 As mentioned above, the [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccReady] provide a guide to implementing or assessing GDPR conformance using Microsoft products and services.
 
@@ -47,6 +47,8 @@ Data Subject Requests provide a means for data subjects to exercise their rights
 
 ### Breach Notification ###
 
+Under GDPR, data controllers are required to prepare a [Data Protection Impact Assessment (DPIA)] for processing operations that are “likely to result in a high risk to the rights and freedoms of natural persons.” There is nothing inherent in Microsoft products and services that necessitate the creation of a DPIA. Rather, it depends on the details of your Microsoft configuration.
+
 As a data processor, Microsoft will ensure that our customers are able to meet the GDPR’s breach notification requirements. Data controllers are responsible for assessing risks to data privacy and determining whether a breach requires notification of a customer’s DPA. Microsoft will provide the information needed to make that assessment. More information about how Microsoft detects and responds to a breach of personal data in [Data Breach Notification Under the GDPR][GDPRbreachNotif]. Some breach notification questions are:
 
 1. What information about a breach should be communicated to data subjects?  
@@ -56,23 +58,21 @@ As a data processor, Microsoft will ensure that our customers are able to meet t
 
 Under GDPR, data controllers are required to prepare a Data Protection Impact Assessment ([DPIA][GDPRdpia]) for processing operations that are “likely to result in a high risk to the rights and freedoms of natural persons.” There is nothing inherent in Microsoft products and services that necessitate the creation of a DPIA. Rather, it depends on the details of your Microsoft configuration.
 
-Here are some items you should consider when preparing to conduct a DPIA:  
+Some considerations regarding DPIA are given below. A list of details that must be considered in Office can be found in [Contents of DPIA][GDPRdpiaContents].
+
 1. What data activities in your organization may compromise your personal data security?  
 1. Could your configuration of Microsoft products and services be vulnerable to data breach?  
 1. When should you conduct a DPIA?  
  * Article 35 of the GDPR requires a DPIA “[w]here a type of processing in particular using new technologies, and taking into account the nature, scope, context and purposes of the processing, is likely to result in a high risk to the rights and freedoms of natural persons.” Specific examples of risk factors in Office are addressed in [Determining Whether a DPIA is Needed][GDPRdpiaNeeded].  
 4. What is required to complete a DPIA?  
  * The GDPR mandates that a DPIA include:  
-    * Assessment of the necessity, and proportionality of data processing in relation to the purpose of the DPIA.
-    * An assessment of the risks to the rights and freedoms of natural persons.
+    * Assessment of the necessity, and proportionality of data processing in relation to the DPIA’s purpose.
+    * An assessment of the risks to the rights and freedoms of data subjects.
     * Intended measures to address the risks, safeguards, security measures and mechanisms to ensure the protection of personal data and demonstrate compliance with the GDPR.
-
-For example, a list of details that must be considered in Office can be found in [Contents of DPIA][GDPRdpiaContents].
 
 ### Accountability Readiness Checklists for the GDPR ###
 
-These [checklists][GDPRaccountReady] provide a convenient way to access information you may need to support the GDPR using Microsoft products. You can manage the items in this checklist with the [Compliance Manager][GDPRcomplianceMgr] by referencing the Control ID and Control Title under Customer Managed Controls in the GDPR tile. In addition, items under [5. Data Protection & Security][GDPRdataProtSec] provide references to controls listed under Microsoft Managed Controls in the GDPR tile in the Compliance Manager.
-
+These [checklists][GDPRaccountReady] provide a convenient way to access information you may need to support the GDPR using Microsoft products. You can manage the items in this checklist with the [Compliance Manager][GDPRcomplianceMgr] by referencing the Control ID and Control Title under Customer Managed Controls in the GDPR tile.
 
 [GDPRrightsSummary]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365
 [GDPRactPlan]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-action-plan
