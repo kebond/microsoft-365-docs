@@ -1,12 +1,10 @@
 # GDPR Summary #
 
-The General Data Protection Regulation (GDPR) gives people specific rights (summarized [here][GDPRrightsSummary]) to manage personal data collected about them by organizations. These include the right to request changes, obtain copies (“data portability”), restrict processing, and deletion (“erasure”) of their personal data.
-
-This document outlines honoring these rights within Microsoft services and products. There are two parts. [Part 1](#part-1:-what-is-the-gdpr?) provides additional detail about the GDPR. [Part 2](#part-2) will provide some details, along with thinking points and prompts, to help you in meeting GDPR standards. A [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccountReady] provide additional resources for assessing and implementing GDPR compliance.
+The General Data Protection Regulation (GDPR) gives people specific rights to manage personal data collected about them. There are several aspects of GDPR compliance. These summary documents are intended to provide a “road map” of key ideas, processes and considerations you will encounter to meet GDPR expectations using Microsoft products and services. Technical guidance can be found at GDPR.
 
 ## Part 1: What is the GDPR? ##
 
-The General Data Protection Regulation (GDPR) gives rights to people (referred to as “data subjects”) to manage the personal data collected by an organization (known as a “data controller”, or simply “controller”). Data subjects can exercise these rights through a [Data Subject Request (DSR)][GDPRdsr]. The controller is required to provide a timely response to DSRs, data breaches and perform [Data Protection Impact Assessments (DPIAs)][GDPR)365DPIA].
+The GDPR gives rights to people to manage personal data collected by an organization. These rights can be exercised through a [Data Subject Request (DSR)][GDPRdsr]. The organization is required to provide timely information regarding DSRs and data breaches, and perform [Data Protection Impact Assessments (DPIAs)][GDPR)365DPIA].
 
 GDPR [terms][gdprTerms] that will be helpful in this document:
  * _Data Controller (Controller)_ – A legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.  
@@ -22,29 +20,30 @@ Several points should be considered when implementing or assessing GDPR requirem
 
 The [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccReady] may prompt additional thinking points.
 
-Fulfilling GDPR standards involves the tasks below, which will be expanded in [Part 2](#part-2:-the-gdrp-in-action).
+The following tasks (expanded in Part 2) are involved to meet GDPR standards. Follow the links in the list for details regarding your implementation.  
 1. **Data Subject Request ([DSR][GDPRdsr])**. A formal request by a data subject to a controller to take an action (change, restrict, access) regarding their personal data.  
 1. **[Breach Notification][GDPRbreach]**. Under GDPR, a personal data breach is “a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored or otherwise processed.”
-1. **Data Protection Assessment ([DPIA][GDPRdpia])**. Data controllers are required under GDPR to prepare a DPIA for data operations that are “likely to result in a high risk to the rights and freedoms of natural persons.”  
+1. **Data Protection Assessment ([DPIA][GDPRdpia])**. Data controllers are required under GDPR to prepare a DPIA for data operations that are “likely to result in a high risk to the rights and freedoms of natural persons.”
+
 As mentioned above, the [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccReady] provide a guide to implementing or assessing GDPR conformance using Microsoft products and services.
 
 ## Part 2: the GDPR in action ##
 
-The following section outlines General Data Protection Regulation (GDPR) actions using Microsoft products and services. Completing GDPR tasks may vary depending on your Microsoft configuration. Follow the links in the [Part 1](#part-1:-what-is-the-gdpr?) list of tasks needed to fulfill GDPR standards for details regarding your implementation. More detailed information on specific processes can be found at the [Microsoft Service Trust Portal][GDPRMSTP].
+This section provides an outline and thinking points on completing the GDPR tasks mentioned above. Completing these tasks may vary depending on your Microsoft configuration.
 
 ### Data Subject Request (DSR) ###
 
-Data Subject Requests (DSRs) provide a means for data subjects to exercise their rights under GDPR. The Controller’s primary DSR task is discovery of relevant personal data. Several actions on personal data may be requested, such as access, or deletion (see Introduction to DSRs for specifics details.) The Controller is responsible for responding in a timely manner, consistent with the GDPR. For more complete details refer to Data Subject Requests for the GDPR. You should make several considerations regarding a DSR:  
+Data Subject Requests provide a means for data subjects to exercise their rights under GDPR. The controller is responsible for providing a timely, GDPR consistent reply. Questions you should consider are addressed below. For technical details, refer to [Data Subject Requests for the GDPR][GDPRdsr].  
 1. What actions will be required to complete a DSR?  
      * DSRs involve six activities: Discovery, Access, Rectification, Restriction, Export and Deletion.
 1. What are your data sources?  
      * A large fraction of an organization’s data is generated in [Office applications][GDPRofficeApps] such as Excel and Outlook. You may also find data relevant to a DSR in [Insights][GDPRinsights] generated by Microsoft products and services, and [system-generated logs][GDPRlogs].
 1. What kinds of data will need to be searched?  
-     * Sources of personal data can be grouped into three categories: Customer Data, Insights generated by Microsoft products and services as system-generated logs.
+     * Personal data may be found in customer data, insights generated by Microsoft products and services, and system-generated logs.
 1. How will personal data be searched?  
-     * Searching for personal data may vary across Microsoft products and services (Office 365, Azure Active Directory, etc.) In Microsoft Office, you can use the [Content Search][GDPRcontentSearch] for most DSR-related data searches. Some Microsoft applications also have [in-app search][GDPRinAppSearch] capacity. Administrators may access [system-generated logs][GDPRlogsAdmin] associated with a user’s activity. For details, reference [Data Subject Requests for the GDPR][GDPRdsr].
+     * Searching for personal data may vary across Microsoft products and services. Search tools include [Content Search][GDPRcontentSearch], or [in-app search][GDPRinAppSearch] capacity. Administrators may access [system-generated logs][GDPRlogsAdmin] associated with a user’s activity.  
 1. In what formats should personal data be made available?  
-     * The GDPR “right of data portability” allows a data subject to request an electronic copy of personal data in a “structured, commonly used, machine-readable format”, and to request that your organization transmit these electronic files to another data controller. For information about GDPR-compliant Office file formats, see Exporting Personal Data.
+     * The GDPR “right of data portability” allows a data subject to request a copy of personal data in a “structured, commonly used, machine-readable format”, and to request that your organization transmit these files to another data controller.
 
 ### Breach Notification ###
 
