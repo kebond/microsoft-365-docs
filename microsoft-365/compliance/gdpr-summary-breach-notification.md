@@ -24,13 +24,13 @@ Microsoft asks _customers_ to do the following regarding our breach notification
 
 Additional details regarding breach notification for specific Microsoft products and services is given below.
   
-1. [Office 365][O365BN]:
-
+1. [Office 365][O365BN]:  
     Microsoft invests extensively in systems, processes, and personnel to reduce the likelihood of personal data breach and to quickly detect and mitigate consequence of breach if it does occur. Additional details can be read at [Office 365 Investments in Data Security][O365investDS].
 
     A customer may become aware of a breach and wish to contact Microsoft. In this case, notify Microsoft Support, which will then interface with engineering teams for more information.
 
-2. [Azure][AADBN]: Microsoft has a global, 24x7 incident response service that works to mitigate the effects of attacks against Microsoft Azure.
+2. [Azure][AADBN]:  
+    Microsoft has a global, 24x7 incident response service that works to mitigate the effects of attacks against Microsoft Azure.
 
     * _Detection of Breaches_: Since both Microsoft and the customer have security obligations, Azure services employs a shared responsibility model to define security and operational accountabilities. Microsoft does not monitor or respond to security incidents within the customer’s realm of responsibility. Note that customer incident response may involve collaboration with Azure [customer support][AADcustSup], given appropriate service contracts. Microsoft Azure also offers various services (e.g., [Azure Security Center][AADASC]) that customers can utilize for developing and managing security incident response.
 
@@ -46,9 +46,11 @@ Additional details regarding breach notification for specific Microsoft products
 
         Further details can be found in [Customer Notification][AADCustNotf].
 
-1. [Dynamics 365][D365BN]: Breach Notification is handled as described above for Azure.
+1. [Dynamics 365][D365BN]:  
+    Breach Notification is handled as described above for Azure.
 
-1. [Microsoft Support and Professional Services][MSPSBN]: The nature of professional services means some data protection incidents may fall within the customer’s realm of responsibility. When Microsoft Professional Services identifies a data protection incident, it follows documented industry standard response plan as outlined in [Scope & Limits of Data Protection Incident Response Process][MSPSscopeLim].  
+1. [Microsoft Support and Professional Services][MSPSBN]:  
+    The nature of professional services means some data protection incidents may fall within the customer’s realm of responsibility. When Microsoft Professional Services identifies a data protection incident, it follows documented industry standard response plan as outlined in [Scope & Limits of Data Protection Incident Response Process][MSPSscopeLim].
 
 [GDPRHomeTopic]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr?toc=/microsoft-365/enterprise/toc.json
 
