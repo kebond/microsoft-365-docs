@@ -1,6 +1,6 @@
 # GDPR Summary #
 
-The General Data Protection Regulation (GDPR) gives people specific rights to manage personal data collected about them. There are several aspects of GDPR compliance. These summary documents are intended to provide a “road map” of key ideas, processes and considerations you will encounter to meet GDPR expectations using Microsoft products and services. Technical guidance can be found at GDPR.
+The General Data Protection Regulation (GDPR) gives people specific rights to manage personal data collected about them. There are several aspects of GDPR compliance. These summary documents are intended to provide a “road map” of key ideas, processes and considerations you will encounter to meet GDPR expectations using Microsoft products and services. Technical guidance can be found at [GDPR][GDPRhomeTopic].
 
 ## Part 1: What is the GDPR? ##
 
@@ -73,6 +73,8 @@ Some considerations regarding DPIA are given below. A list of details that must 
 ### Accountability Readiness Checklists for the GDPR ###
 
 These [checklists][GDPRaccountReady] provide a convenient way to access information you may need to support the GDPR using Microsoft products. You can manage checklist items with the [Compliance Manager][GDPRcomplianceMgr] by referencing the Control ID and Control Title under Customer Managed Controls in the GDPR tile.
+
+[GDPR][GDPRhomeTopic]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr?toc=/microsoft-365/enterprise/toc.json
 
 [GDPRrightsSummary]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365
 [GDPRactPlan]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-action-plan
