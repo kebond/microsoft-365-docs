@@ -1,8 +1,14 @@
 # GDPR Action Plan #
 
-The General Data Protection Regulation [(GDPR)][GDPRlink] introduces new rules for companies, government agencies, and other organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents. The GDPR applies no matter where you or your enterprise are located.
+The General Data Protection Regulation (GDPR) gives people specific rights to manage personal data collected about them. There are several aspects of GDPR compliance. <These documents> are intended to provide a “road map” of key ideas, processes and considerations you will encounter to meet GDPR expectations using Microsoft products and services. Technical guidance can be found at [GDPR][GDPRlink].
+
+The GDPR introduces new rules for companies, government agencies, and other organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents. The GDPR applies no matter where you or your enterprise are located.
+
+This document summarizes a prioritized action plan to meet the requirements of the GDPR. Learn more about how to use this action plan at: Chart your Microsoft 365 compliance path and information protection strategy.
 
 This document summarizes a prioritized action plan to meet the requirements of the GDPR. Learn more about how to use this action plan at: [Chart your Microsoft 365 compliance path and information protection strategy.][ChartCompliance]
+
+## Implementing the GDPR ##
 
 Microsoft recommends a three phase implementation, with specific outcomes, found at [Action Plan Outcomes][APOutcomes]. As a timeline, these phases are:  
 1.	Tasks that can be completed quickly, with low impact to users. ([First 30 days][30days].)  
@@ -19,24 +25,27 @@ Microsoft recommends a three phase implementation, with specific outcomes, found
 
 [Additional resources][addResources], including a [FAQ][FAQ] for small organizations, are available.
 
-Accountability readiness checklists are provided to conveniently access information you may need to support the GDPR using Microsoft products and services. A general outline is given below. For each point, the title links (“Introduction”, etc.) lead to the Office 365 information on that topic. For details regarding your Microsoft implementation follow the link in [Accountability readiness checklists for the GDPR][accReadiness]. For all the items below, only a partial list is included. For further details follow the title link at each section.  
-1. [Introduction][intro]: You can manage the items in this checklist with [Compliance Manager][complMgr] by referencing the Control ID and Control Title under Customer Managed Controls in the GDPR tile.
+## Accountability Readiness Checklists ##
 
-2. Conditions for Data Collection and Processing:  
+Checklists are provided to guide accountability for your readiness to support the GDPR using Microsoft products and services. For all the items below, only a partial list is included. Details regarding your Microsoft implementation follow the appropriate link in [Accountability readiness checklists for the GDPR][accReadiness].
+
+You can manage the items in this checklist with [Compliance Manager][complMgr] by referencing the Control ID and Control Title under Customer Managed Controls in the GDPR tile.
+
+1. Conditions for Data Collection and Processing:  
  • When is consent obtained?  
  • Identify and document purpose  
  • Privacy impact assessment
 
-3. [Data Subject Rights][dataSubRts]
+2. [Data Subject Rights][dataSubRts]
  • Determining information for PII principals (data subjects)  
  • Providing mechanism to modify or withdraw consent
 
-4. [Privacy by Design and Default][privacyDD]  
+3. [Privacy by Design and Default][privacyDD]  
  • Limit Collection  
  • Comply with identification levels  
  • Temporary files
 
-5. [Data Protection and Security][dataProSec]  
+4. [Data Protection and Security][dataProSec]  
  • Understanding the organization and its context  
  • Planning  
  • Information Security Policies
