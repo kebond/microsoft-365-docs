@@ -52,6 +52,8 @@ Specific details that may be relevant to your Microsoft implementation are below
 
 [GDPRhomeTopic]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr?toc=/microsoft-365/enterprise/toc.json
 
+[gdprTerms]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365?toc=/microsoft-365/enterprise/toc.json#terminology
+
 [DPIAref]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-data-protection-impact-assessments
 [DPIAwhenNeeded]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed
 [DPIAcontents]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia
