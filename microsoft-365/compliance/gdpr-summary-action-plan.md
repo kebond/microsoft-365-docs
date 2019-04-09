@@ -36,16 +36,16 @@ Checklists are provided to guide accountability for your readiness to support th
  • Identify and document purpose  
  • Privacy impact assessment
 
-2. [Data Subject Rights][dataSubRts]  
+2. Data Subject Rights  
  • Determining information for PII principals (data subjects)  
  • Providing mechanism to modify or withdraw consent
 
-3. [Privacy by Design and Default][privacyDD]  
+3. Privacy by Design and Default  
  • Limit Collection  
  • Comply with identification levels  
  • Temporary files
 
-4. [Data Protection and Security][dataProSec]  
+4. Data Protection and Security  
  • Understanding the organization and its context  
  • Planning  
  • Information Security Policies
@@ -62,6 +62,3 @@ Checklists are provided to guide accountability for your readiness to support th
 [accReadiness]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-arc-office365
 [intro]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-arc-office365#1-introduction
 [complMgr]: https://servicetrust.microsoft.com/ComplianceManager
-[dataSubRts]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-arc-office365#3-rights-of-data-subjects
-[privacyDD]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-arc-office365#4-privacy-by-design-and-default
-[dataProSec]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-arc-office365#5-data-protection--security
