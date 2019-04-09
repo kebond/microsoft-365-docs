@@ -1,4 +1,8 @@
-# Data Subject Requests for the GDPR #
+# GDPR Summary #
+
+The General Data Protection Regulation (GDPR) gives people specific rights to manage personal data collected about them. There are several aspects of GDPR compliance. These summary documents are intended to provide a “road map” of key ideas, processes and considerations you will encounter to meet GDPR expectations using Microsoft products and services. Technical guidance can be found at [GDPR][GDPRhomeTopic].
+
+## Data Subject Requests for the GDPR ##
 
 This document provides guidance for the completion of Data Subject Requests (DSRs) under the General Data Protection Regulation (GDPR) using Microsoft products and services. third-party products and services accessed through Microsoft account authentication, any data subject requests should be directed to the applicable third party.
 
@@ -114,6 +118,8 @@ In some [circumstances][DSRuserInit] your organization’s users may access Micr
 * _Azure DevOps_.  There is no specific information here.  
 * _Microsoft Support and Professional Services_. Microsoft's response to DSRs is detailed in [this document][DSRMSPSlogs].
 
+
+[GDPRhomeTopic]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr?toc=/microsoft-365/enterprise/toc.json
 
 [DSRdataTypes]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365?toc=/microsoft-365/enterprise/toc.json#how-to-use-this-guide
 [DSRinsights]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365?toc=/microsoft-365/enterprise/toc.json#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365
