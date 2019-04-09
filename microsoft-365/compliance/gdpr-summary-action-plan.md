@@ -1,6 +1,6 @@
 # GDPR Action Plan #
 
-The General Data Protection Regulation (GDPR) gives people specific rights to manage personal data collected about them. There are several aspects of GDPR compliance. <These documents> are intended to provide a “road map” of key ideas, processes and considerations you will encounter to meet GDPR expectations using Microsoft products and services. Technical guidance can be found at [GDPR][GDPRlink].
+The General Data Protection Regulation (GDPR) gives people specific rights to manage personal data collected about them. There are several aspects of GDPR compliance. These documents are intended to provide a “road map” of key ideas, processes and considerations you will encounter to meet GDPR expectations using Microsoft products and services. Technical guidance can be found at [GDPR][GDPRlink].
 
 The GDPR introduces new rules for companies, government agencies, and other organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents. The GDPR applies no matter where you or your enterprise are located.
 
