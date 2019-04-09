@@ -27,6 +27,8 @@ Microsoft recommends a three phase implementation, with specific outcomes, found
 
 ## Accountability Readiness Checklists ##
 
+THIS SECTION NEEDS SOME REORG, OR AT LEAST A TRANSITION TO THE LIST.
+
 Checklists are provided to guide accountability for your readiness to support the GDPR using Microsoft products and services. For all the items below, only a partial list is included. Details regarding your Microsoft implementation follow the appropriate link in [Accountability readiness checklists for the GDPR][accReadiness].
 
 You can manage the items in this checklist with [Compliance Manager][complMgr] by referencing the Control ID and Control Title under Customer Managed Controls in the GDPR tile.
@@ -36,7 +38,7 @@ You can manage the items in this checklist with [Compliance Manager][complMgr] b
  • Identify and document purpose  
  • Privacy impact assessment
 
-2. [Data Subject Rights][dataSubRts]
+2. [Data Subject Rights][dataSubRts]  
  • Determining information for PII principals (data subjects)  
  • Providing mechanism to modify or withdraw consent
 
