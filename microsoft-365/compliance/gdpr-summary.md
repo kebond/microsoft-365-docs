@@ -1,10 +1,10 @@
 # GDPR Summary #
 
-The General Data Protection Regulation (GDPR) gives people specific rights to manage personal data collected about them. There are several aspects of GDPR compliance. These summary documents are intended to provide a “road map” of key ideas, processes and considerations you will encounter to meet GDPR expectations using Microsoft products and services. Technical guidance can be found at [GDPR][GDPRhomeTopic].
+The General Data Protection Regulation (GDPR) gives people specific rights to manage personal data collected about them. There are several aspects of GDPR compliance. This document guides you to information to help you honor these rights when using Microsoft products and services. Additional resources can be found at [GDPR][GDPRhomeTopic].
 
 ## Part 1: What is the GDPR? ##
 
-The GDPR gives rights to people to manage personal data collected by an organization. These rights can be exercised through a [Data Subject Request (DSR)][GDPRdsr]. The organization is required to provide timely information regarding DSRs and data breaches, and perform [Data Protection Impact Assessments (DPIAs)][GDPR)365DPIA].
+The GDPR gives rights to people to manage personal data collected by an organization. These rights can be exercised through a [Data Subject Request (DSR)][GDPRdsr]. The organization is required to provide timely information regarding DSRs and data breaches, and perform [Data Protection Impact Assessments (DPIAs)][GDPR365DPIA].
 
 GDPR [terms][gdprTerms] that will be helpful in this document:
  * _Data Controller (Controller)_ – A legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.  
