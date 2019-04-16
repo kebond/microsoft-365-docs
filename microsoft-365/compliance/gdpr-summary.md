@@ -1,6 +1,6 @@
 # GDPR Summary #
 
-The General Data Protection Regulation (GDPR) gives people specific rights to manage personal data collected about them. There are several aspects of GDPR compliance. This document guides you to information to help you honor these rights when using Microsoft products and services. Additional resources can be found at [GDPR][GDPRhomeTopic].
+The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional resources can be found at [GDPR][GDPRhomeTopic].
 
 ## Part 1: What is the GDPR? ##
 
