@@ -2,6 +2,8 @@
 
 The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional resources can be found at [GDPR][GDPRhomeTopic].
 
+The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located.
+
 ## Data Subject Requests for the GDPR ##
 
 This document provides guidance for the completion of Data Subject Requests (DSRs) under the General Data Protection Regulation (GDPR) using Microsoft products and services. third-party products and services accessed through Microsoft account authentication, any data subject requests should be directed to the applicable third party.
