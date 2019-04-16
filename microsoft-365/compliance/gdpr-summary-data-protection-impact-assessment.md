@@ -2,6 +2,8 @@
 
 The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional resources can be found at [GDPR][GDPRhomeTopic].
 
+The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located.
+
 ## What is a DPIA? ##
 
 The GDPR requires controllers to prepare a [Data Protection Impact Assessment (DPIA)][DPIAref] for operations that are “likely to result in a high risk to the rights and freedoms of natural persons.” There is nothing inherent in Microsoft products and services that necessitate the creation of a DPIA; however, because Microsoft products and services are highly-customizable, a DPIA may be needed depending on the details of your Microsoft configuration. Microsoft has no control over, and little or no insight into such information. The data controller must determine appropriate uses of their data.
