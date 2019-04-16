@@ -58,5 +58,4 @@ Checklists are provided to guide accountability for your readiness to support th
 [addResources]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-action-plan#learn-more
 [FAQ]: https://ico.org.uk/for-organisations/business/guide-to-the-general-data-protection-regulation-gdpr-faqs/
 [accReadiness]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-arc-office365
-[intro]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-arc-office365#1-introduction
 [complMgr]: https://servicetrust.microsoft.com/ComplianceManager
