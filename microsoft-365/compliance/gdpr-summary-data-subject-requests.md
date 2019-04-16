@@ -1,4 +1,4 @@
-# GDPR Summary #
+# Data Subject Requests for the GDPR #
 
 The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional resources can be found at [GDPR][GDPRhomeTopic].
 
