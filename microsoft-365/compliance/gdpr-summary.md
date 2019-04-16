@@ -2,6 +2,8 @@
 
 The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional resources can be found at [GDPR][GDPRhomeTopic].
 
+This document guides you to information to help you honor rights under GDPR when using Microsoft products and services. A [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccountReady] provide additional resources for assessing and implementing GDPR compliance.
+
 ## Part 1: What is the GDPR? ##
 
 The GDPR gives rights to people to manage personal data collected by an organization. These rights can be exercised through a [Data Subject Request (DSR)][GDPRdsr]. The organization is required to provide timely information regarding DSRs and data breaches, and perform [Data Protection Impact Assessments (DPIAs)][GDPR365DPIA].
