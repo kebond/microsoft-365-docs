@@ -1,6 +1,6 @@
 # GDPR Breach Notification #
 
-The General Data Protection Regulation (GDPR) gives people specific rights to manage personal data collected about them. There are several aspects of GDPR compliance. These summary documents are intended to provide a “road map” of key ideas, processes and considerations you will encounter to meet GDPR expectations using Microsoft products and services. Technical guidance can be found at [GDPR][GDPRHomeTopic].
+The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional resources can be found at [GDPR][GDPRhomeTopic].
 
 Microsoft takes its obligations under the General Data Protection Regulation (GDPR) seriously. A security incident/data breach refers to events such as unlawful access to customer’s data stored on Microsoft equipment or in Microsoft facilities, or unauthorized access to such that has the potential to result in the loss, disclosure or alteration of customer data.
 
@@ -55,7 +55,7 @@ Additional details regarding breach notification for specific Microsoft products
 1. [Microsoft Support and Professional Services][MSPSBN]:  
     The nature of professional services means some data protection incidents may fall within the customer’s realm of responsibility. When Microsoft Professional Services identifies a data protection incident, it follows documented industry standard response plan as outlined in [Scope & Limits of Data Protection Incident Response Process][MSPSscopeLim].
 
-[GDPRHomeTopic]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr?toc=/microsoft-365/enterprise/toc.json
+[GDPRhomeTopic]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr?toc=/microsoft-365/enterprise/toc.json
 
 [dataBreachNotif]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-breach-notification?toc=/microsoft-365/enterprise/toc.json
 [custCallToAct]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-breach-office365#call-to-action-for-customers

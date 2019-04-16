@@ -1,8 +1,6 @@
 # GDPR Action Plan #
 
-The General Data Protection Regulation (GDPR) gives people specific rights to manage personal data collected about them. There are several aspects of GDPR compliance. These documents are intended to provide a “road map” of key ideas, processes and considerations you will encounter to meet GDPR expectations using Microsoft products and services. Technical guidance can be found at [GDPR][GDPRlink].
-
-The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located.
+The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional resources can be found at [GDPR][GDPRhomeTopic].
 
 This document summarizes a prioritized action plan to meet the requirements of the GDPR. Learn more about how to use this action plan at: [Chart your Microsoft 365 compliance path and information protection strategy.][ChartCompliance]
 
@@ -34,7 +32,7 @@ For all the items below, only a partial list is included. For further details fo
  • Information Security Policies
 
 
-[GDPRlink]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr?toc=/microsoft-365/enterprise/toc.json
+[GDPRhomeTopic]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr?toc=/microsoft-365/enterprise/toc.json
 [ChartCompliance]: https://myignite.techcommunity.microsoft.com/sessions/65720?source=sessions
 [APOutcomes]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-action-plan#action-plan-outcomes
 [30days]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-action-plan#30-days--powerful-quick-wins
