@@ -16,10 +16,14 @@ Data controllers are responsible for assessing risks to data privacy and determi
 
 Initial notification will include, at least, a description of the nature of the breach, approximate user impact, and mitigation steps (if applicable). If our investigation is not complete at the time of initial notification, we will indicate next steps and timelines for subsequent communication. More information about how Microsoft detects and responds to a breach of personal data in [Data Breach Notification Under the GDPR][dataBreachNotif].
 
-Microsoft is committed to the following:
- * Providing the ability to specify a dedicated privacy contact, who will be notified in the event of a breach.
- * Notifying customers of a personal data breach within 72 hours of a breach being declared. Notification will be done by e-mail to the contact specified by the customer.
- * Initial notification will include, at least, a description of the nature of the breach, approximate user impact, and mitigation steps (if applicable). If our investigation is not complete at the time of initial notification, we will indicate next steps and timelines for subsequent communication in our initial notification.
+Additional information that Microsoft will include in a breach notification, if applicable and known:
+ * Nature of the breach
+ * Mitigation measures Microsoft is taking or proposing
+ * Product, service, application involved
+ * Length of time personal data was exposed, if known
+ * Volume of affected/exposed personal data records, if known
+ * Sub-processor/supplier details, if one is involved in the breach
+
 
 Additional details regarding breach notification for specific Microsoft products and services is given below.
   
