@@ -4,8 +4,6 @@ The General Data Protection Regulation (GDPR) gives people specific rights to ma
 
 The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located.
 
-This document summarizes a prioritized action plan to meet the requirements of the GDPR. Learn more about how to use this action plan at: Chart your Microsoft 365 compliance path and information protection strategy.
-
 This document summarizes a prioritized action plan to meet the requirements of the GDPR. Learn more about how to use this action plan at: [Chart your Microsoft 365 compliance path and information protection strategy.][ChartCompliance]
 
 ## Accountability Readiness Checklists ##
