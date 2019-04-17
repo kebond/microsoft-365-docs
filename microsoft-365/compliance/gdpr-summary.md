@@ -65,7 +65,7 @@ Some considerations regarding DPIA are given below. A list of details that must 
 1. What data activities in your organization may compromise your personal data security?  
 1. Could your configuration of Microsoft products and services be vulnerable to data breach?  
 1. When should you conduct a DPIA?  
- * Article 35 of the GDPR requires a DPIA “[w]here a type of processing in particular using new technologies, and taking into account the nature, scope, context and purposes of the processing, is likely to result in a high risk to the rights and freedoms of natural persons.” Specific examples of risk factors in Office are addressed in [Determining Whether a DPIA is Needed][GDPRdpiaNeeded].  
+ * Controllers are required to perform a DPIA addressing risks to personal data security or as a result of a data breach. Specific examples of risk factors in Office are addressed in [Determining Whether a DPIA is Needed][GDPRdpiaNeeded].  
 4. What is required to complete a DPIA?  
  * The GDPR mandates that a DPIA include:  
     * Assessment of the necessity, and proportionality of data processing in relation to the DPIA’s purpose.
