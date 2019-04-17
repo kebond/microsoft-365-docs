@@ -1,8 +1,8 @@
 # GDPR Summary #
 
-The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional resources can be found at [GDPR][GDPRhomeTopic].
+The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional details can be found at [GDPR][GDPRhomeTopic].
 
-This document guides you to information to help you honor rights under GDPR when using Microsoft products and services. A [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccountReady] provide additional resources for assessing and implementing GDPR compliance.
+This document guides you to information to help you honor rights under the GDPR when using Microsoft products and services. A [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccountReady] provide additional resources for assessing and implementing GDPR compliance.
 
 ## Part 1: What is the GDPR? ##
 
@@ -83,7 +83,7 @@ These [checklists][GDPRaccountReady] provide a convenient way to access informat
 [GDPRaccountReady]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-arc
 
 [GDPRdsr]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-data-subject-requests?toc=/microsoft-365/enterprise/toc.json
-[GDPR)365DPIA]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-data-protection-impact-assessments
+[GDPR365DPIA]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-data-protection-impact-assessments
 [gdprTerms]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365?toc=/microsoft-365/enterprise/toc.json#terminology
 
 [GDPRactPlan]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-action-plan
