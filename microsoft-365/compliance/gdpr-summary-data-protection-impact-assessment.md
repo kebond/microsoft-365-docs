@@ -21,7 +21,7 @@ GDPR [terms][gdprTerms] that will be helpful in this document:
 The following guidelines apply to Office 365, Azure, Dynamics 365 and Microsoft Support and Professional Services. Further details relevant to your Microsoft implementation are also provided.
 
 1. _When is a DPIA needed?_
-    Article 35 of the GDPR requires a DPIA “[w]here a type of processing in particular using new technologies, and taking into account the nature, scope, context and purposes of the processing, is likely to result in a high risk to the rights and freedoms of natural persons.” The following risk factors are detailed in [Determining Whether a DPIA is Needed][DPIAwhenNeeded].  
+    The risk factors listed below should be addressed when considering whether to complete a DPIA. Other potential factors and further details are found in [Determining Whether a DPIA is Needed][DPIAwhenNeeded].  
      * A systematic and extensive evaluation of data based on automated processing.  
      * Processing on a large scale of special categories of data (data revealing information uniquely identifying a natural person), or of personal data relating to criminal convictions and offences.
      * Systematic monitoring of a publicly accessible area on a large scale.
