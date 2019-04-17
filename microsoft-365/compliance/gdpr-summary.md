@@ -6,7 +6,7 @@ This document guides you to information to help you honor rights and fulfill obl
 
 ## Part 1: What is the GDPR? ##
 
-The GDPR gives rights to people to manage personal data collected by an organization. These rights can be exercised through a [Data Subject Request (DSR)][GDPRdsr]. The organization is required to provide timely information regarding DSRs and data breaches, and perform [Data Protection Impact Assessments (DPIAs)][GDPR365DPIA].
+The GDPR gives rights to people to manage personal data collected by an organization. These rights can be exercised through a Data Subject Request (DSR). The organization is required to provide timely information regarding DSRs and data breaches, and perform Data Protection Impact Assessments (DPIAs).
 
 GDPR [terms][gdprTerms] that will be helpful in this document:
  * _Data Controller (Controller)_ – A legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.  
@@ -27,7 +27,7 @@ The following tasks (expanded in Part 2) are involved to meet GDPR standards. Fo
 1. [Breach Notification][GDPRbreach]. Under GDPR, a personal data breach is “a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored or otherwise processed.”
 1. [Data Protection Assessment][GDPRdpia] (DPIA). Data controllers are required under GDPR to prepare a DPIA for data operations that are “likely to result in a high risk to the rights and freedoms of natural persons.”
 
-As mentioned above, the [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccReady] provide a guide to implementing or assessing GDPR conformance using Microsoft products and services.
+As mentioned above, the Recommended action plan for GDPR and Accountability Readiness Checklists provide a guide to implementing or assessing GDPR conformance using Microsoft products and services.
 
 ## Part 2: the GDPR in action ##
 
