@@ -1,6 +1,6 @@
 # GDPR Action Plan #
 
-The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional details can be found at [GDPR][GDPRhomeTopic].
+The General Data Protection Regulation (GDPR) introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional details can be found at [GDPR][GDPRhomeTopic].
 
 This document summarizes a prioritized action plan to meet the requirements of the GDPR. Learn more about how to use this action plan at: [Chart your Microsoft 365 compliance path and information protection strategy.][ChartCompliance]
 
