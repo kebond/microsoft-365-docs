@@ -4,6 +4,10 @@ The General Data Protection Regulation (GDPR) introduces new rules for organizat
 
 This document leads you to information on the completion of Breach Notifications under the GDPR using Microsoft products and services.
 
+## What is a Personal Data Breach? ##
+
+Personal data is information related to an identified, or identifiable person. A breach of data security affects the confidentiality, integrity or availability of personal data. This includes the accidental or unlawful loss, alteration, access to or unauthorized disclosure of that data.
+
 ## Microsoft and Breach Notification ##
 
 Microsoft takes its obligations under the General Data Protection Regulation (GDPR) seriously. A security incident/data breach refers to events such as unlawful access to customer’s data stored on Microsoft equipment or in Microsoft facilities, or unauthorized access to such that has the potential to result in the loss, disclosure or alteration of customer data.
