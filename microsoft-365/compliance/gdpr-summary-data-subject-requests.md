@@ -1,10 +1,12 @@
 # Data Subject Requests for the GDPR #
 
-The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional resources can be found at [GDPR][GDPRhomeTopic].
+The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional details can be found at [GDPR][GDPRhomeTopic].
+
+This document guides you to information on the completion of Data Subject Requests (DSRs) under the GDPR using Microsoft products and services.
 
 ## Data Subject Requests for the GDPR ##
 
-This document provides guidance for the completion of Data Subject Requests (DSRs) under the General Data Protection Regulation (GDPR) using Microsoft products and services. third-party products and services accessed through Microsoft account authentication, any data subject requests should be directed to the applicable third party.
+Data subject Requests (DSRs) provide a means for data subjects to exercise their rights under the GDPR. Your data controller is responsible for providing a timely, GDPR conforming reply. For third-party products and services accessed through Microsoft account authentication, any data subject requests should be directed to the applicable third party.
 
 Several processes may be involved completing a DSR, subject to your organization’s GDPR-compliance rules.  
 1. **Discovery**. The process of determining what data is needed to complete a DSR.
