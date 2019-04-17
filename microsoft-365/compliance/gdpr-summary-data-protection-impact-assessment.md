@@ -1,6 +1,8 @@
 # Data Protection Impact Assessment for the GDPR #
 
-The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional resources can be found at [GDPR][GDPRhomeTopic].
+The GDPR introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional details can be found at [GDPR][GDPRhomeTopic].
+
+This document guides you to information regarding Data Protection Impact Assessments (DPIAs) under the GDPR when using Microsoft products and services.
 
 ## What is a DPIA? ##
 
