@@ -4,15 +4,15 @@ The General Data Protection Regulation (GDPR) introduces new rules for organizat
 
 This document guides you to information to help you honor rights and fulfill obligations under the GDPR when using Microsoft products and services. A [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccountReady] provide additional resources for assessing and implementing GDPR compliance.
 
-## Part 1: What is the GDPR? ##
-
-The GDPR gives rights to people to manage personal data collected by an organization. These rights can be exercised through a Data Subject Request (DSR). The organization is required to provide timely information regarding DSRs and data breaches, and perform Data Protection Impact Assessments (DPIAs).
-
 GDPR [terms][gdprTerms] that will be helpful in this document:
  * _Data Controller (Controller)_ – A legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.  
  * _Personal data_ and _data subject_ – Any information relating to an identified or identifiable natural person (data subject); an identifiable natural person is one who can be identified, directly or indirectly.  
  * _Processor_ – A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.  
  * _Customer Data_ – Data produced and stored in the day-to-day operations of running your business.
+
+## Part 1: What is the GDPR? ##
+
+The GDPR gives rights to people to manage personal data collected by an organization. These rights can be exercised through a Data Subject Request (DSR). The organization is required to provide timely information regarding DSRs and data breaches, and perform Data Protection Impact Assessments (DPIAs).
 
 Several points should be considered when implementing or assessing GDPR requirements.
 1. Developing or evaluating your GDPR-compliance data privacy policy.  
@@ -23,7 +23,7 @@ Several points should be considered when implementing or assessing GDPR requirem
 The [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccReady] may prompt additional thinking points.
 
 The following tasks (expanded in Part 2) are involved to meet GDPR standards. Follow the links in the list for details regarding your implementation.  
-1. [Data Subject Request][GDPRdsr] (GDPR). A formal request by a data subject to a controller to take an action (change, restrict, access) regarding their personal data.  
+1. [Data Subject Request][GDPRdsr] (DSR). A formal request by a data subject to a controller to take an action (change, restrict, access) regarding their personal data.  
 1. [Breach Notification][GDPRbreach]. Under GDPR, a personal data breach is “a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored or otherwise processed.”
 1. [Data Protection Assessment][GDPRdpia] (DPIA). Data controllers are required under GDPR to prepare a DPIA for data operations that are “likely to result in a high risk to the rights and freedoms of natural persons.”
 
