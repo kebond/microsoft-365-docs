@@ -10,7 +10,7 @@ GDPR [terms][gdprTerms] that will be helpful in this document:
  * _Processor_ – A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.  
  * _Customer Data_ – Data produced and stored in the day-to-day operations of running your business.
 
-## Data Subject Requests for the GDPR ##
+## Data Subject Requests in Action ##
 
 Data subject Requests (DSRs) provide a means for data subjects to exercise their rights under the GDPR. Your data controller is responsible for providing a timely, GDPR conforming reply. For third-party products and services accessed through Microsoft account authentication, any data subject requests should be directed to the applicable third party.
 
