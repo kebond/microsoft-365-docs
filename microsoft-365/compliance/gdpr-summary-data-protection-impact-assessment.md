@@ -4,17 +4,17 @@ The General Data Protection Regulation (GDPR) introduces new rules for organizat
 
 This document guides you to information regarding Data Protection Impact Assessments (DPIAs) under the GDPR when using Microsoft products and services.
 
-## What is a DPIA? ##
-
-The GDPR requires controllers to prepare a [Data Protection Impact Assessment (DPIA)][DPIAref] for operations that are “likely to result in a high risk to the rights and freedoms of natural persons.” There is nothing inherent in Microsoft products and services that necessitate the creation of a DPIA; however, because Microsoft products and services are highly-customizable, a DPIA may be needed depending on the details of your Microsoft configuration. Microsoft has no control over, and little or no insight into such information. The data controller must determine appropriate uses of their data.
-
-Microsoft recognizes that controllers are responsible for conducting risk assessments and determining whether a breach requires notification of the customer’s DPA. Microsoft’s notifications will ensure that data controllers are able to meet the GDPR’s breach notification requirements. For more information on breaches, refer to [Breach Notification][summaryDocLink].
-
 GDPR [terms][gdprTerms] that will be helpful in this document:
  * _Data Controller (Controller)_ – A legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.  
  * _Personal data_ and _data subject_ – Any information relating to an identified or identifiable natural person (data subject); an identifiable natural person is one who can be identified, directly or indirectly.  
  * _Processor_ – A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.  
  * _Customer Data_ – Data produced and stored in the day-to-day operations of running your business.
+
+## What is a DPIA? ##
+
+The GDPR requires controllers to prepare a [Data Protection Impact Assessment (DPIA)][DPIAref] for operations that are “likely to result in a high risk to the rights and freedoms of natural persons.” There is nothing inherent in Microsoft products and services that necessitate the creation of a DPIA; however, because Microsoft products and services are highly-customizable, a DPIA may be needed depending on the details of your Microsoft configuration. Microsoft has no control over, and little or no insight into such information. The data controller must determine appropriate uses of their data.
+
+Microsoft recognizes that controllers are responsible for conducting risk assessments and determining whether a breach requires notification of the customer’s DPA. Microsoft’s notifications will ensure that data controllers are able to meet the GDPR’s breach notification requirements. For more information on breaches, refer to [Breach Notification under the GDPR][DPIAbreachNote].
 
 ## DPIA in Action ##
 
@@ -55,6 +55,8 @@ Specific details that may be relevant to your Microsoft implementation are below
 [GDPRhomeTopic]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr?toc=/microsoft-365/enterprise/toc.json
 
 [gdprTerms]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365?toc=/microsoft-365/enterprise/toc.json#terminology
+
+[DPIAbreachNote]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-breach-notification?toc=/microsoft-365/enterprise/toc.json
 
 [DPIAref]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-data-protection-impact-assessments
 [DPIAwhenNeeded]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed
