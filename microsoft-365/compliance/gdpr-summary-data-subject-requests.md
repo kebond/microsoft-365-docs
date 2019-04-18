@@ -50,6 +50,7 @@ If your organization or users engage with Microsoft to receive support related t
 In some circumstances your organization’s users may access Microsoft products or services for which Microsoft is the data controller. In those cases, your users will need to initiate their own DSRs directly to Microsoft, and Microsoft will fulfill the requests directly to the user.
 
 [GDPRhomeTopic]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr?toc=/microsoft-365/enterprise/toc.json
+[gdprTerms]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365?toc=/microsoft-365/enterprise/toc.json#terminology
 
 [DSRforGDPR]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-data-subject-requests?toc=/microsoft-365/enterprise/toc.json
 
