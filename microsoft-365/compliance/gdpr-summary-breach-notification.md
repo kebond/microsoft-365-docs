@@ -32,8 +32,9 @@ Additional information that Microsoft will include in a breach notification, if 
  * Volume of affected/exposed personal data records, if known
  * Sub-processor/supplier details, if one is involved in the breach
 
+## Additional Considerations ##
 
-Additional details regarding breach notification for specific Microsoft products and services is given below.
+Details regarding breach notification for specific Microsoft products and services is given below.
   
 1. [Office 365][O365BN]:  
     Microsoft invests extensively in systems, processes, and personnel to reduce the likelihood of personal data breach and to quickly detect and mitigate consequence of breach if it does occur. Additional details can be read at [Office 365 Investments in Data Security][O365investDS].
