@@ -10,7 +10,7 @@ GDPR [terms][gdprTerms] that will be helpful in this document:
  * _Processor_ – A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.  
  * _Customer Data_ – Data produced and stored in the day-to-day operations of running your business.
 
-## Part 1: What is the GDPR? ##
+## What is the GDPR? ##
 
 The GDPR gives rights to people to manage personal data collected by an organization. These rights can be exercised through a Data Subject Request (DSR). The organization is required to provide timely information regarding DSRs and data breaches, and perform Data Protection Impact Assessments (DPIAs).
 
@@ -29,7 +29,7 @@ The following tasks (expanded in Part 2) are involved to meet GDPR standards. Fo
 
 As mentioned above, the Recommended action plan for GDPR and Accountability Readiness Checklists provide a guide to implementing or assessing GDPR conformance using Microsoft products and services.
 
-## Part 2: the GDPR in action ##
+## The GDPR in action ##
 
 This section provides an outline and thinking points on completing the GDPR tasks mentioned above. Completing these tasks may vary depending on your Microsoft configuration.
 
