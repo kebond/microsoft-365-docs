@@ -1,5 +1,7 @@
 # GDPR Summary #
 
+Test
+
 The General Data Protection Regulation (GDPR) introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional details can be found at [GDPR][GDPRhomeTopic].
 
 This document guides you to information to help you honor rights and fulfill obligations under the GDPR when using Microsoft products and services. A [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccountReady] provide additional resources for assessing and implementing GDPR compliance.
