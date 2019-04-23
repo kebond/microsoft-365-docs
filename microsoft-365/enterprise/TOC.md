@@ -100,6 +100,12 @@
 ## [NIST — Recommended action plan](../compliance/nist-action-plan.md) 
 ## [GDPR](../compliance/gdpr.md?toc=/microsoft-365/enterprise/toc.json)
 
+### [GDPR Summary](../compliance/gdpr-summary.md)
+### [Action Plan Summary](../compliance/gdpr-summary-action-plan.md)
+### [DPIA Summary](../compliance/gdpr-summary-data-proctection-impact-assessment.md)
+### [DSR Summary](../compliance/gdpr-summary-data-subject-requests.md)
+### [Breach Notification Summary](../compliance/gdpr-summary-breach-notification.md)
+
 ### [Recommended action plan for GDPR](../compliance/gdpr-action-plan.md)
 
 ### [Accountability readiness checklists](../compliance/gdpr-arc.md)
