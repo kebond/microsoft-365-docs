@@ -91,7 +91,6 @@ These [checklists][GDPRaccountReady] provide a convenient way to access informat
 
 [GDPRdsr]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-data-subject-requests?toc=/microsoft-365/enterprise/toc.json
 
-[GDPRbreach]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-data-subject-requests?toc=/microsoft-365/enterprise/toc.json
 [GDPRbreach]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-breach-notification?toc=/microsoft-365/enterprise/toc.json
 [GDPRdpia]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-data-protection-impact-assessments
 
