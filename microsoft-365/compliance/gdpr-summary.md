@@ -49,8 +49,6 @@ Data Subject Requests provide a means for data subjects to exercise their rights
 
 ### Breach Notification ###
 
-Under GDPR, data controllers are required to prepare a [Data Protection Impact Assessment (DPIA)] for processing operations that are “likely to result in a high risk to the rights and freedoms of natural persons.” There is nothing inherent in Microsoft products and services that necessitate the creation of a DPIA. Rather, it depends on the details of your Microsoft configuration.
-
 As a data processor, Microsoft will ensure that our customers are able to meet the GDPR’s breach notification requirements. Data controllers are responsible for assessing risks to data privacy and determining whether a breach requires notification of a customer’s DPA. Microsoft will provide the information needed to make that assessment. More information about how Microsoft detects and responds to a breach of personal data in [Data Breach Notification Under the GDPR][GDPRbreachNotif]. Some breach notification questions are:
 
 1. What information about a breach should be communicated to data subjects?  
