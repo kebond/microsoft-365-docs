@@ -80,7 +80,7 @@ Details regarding breach notification for specific Microsoft products and servic
 [AADASC]: https://azure.microsoft.com/services/security-center/
 [AADdetPotBrch]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-breach-azure?toc=/microsoft-365/enterprise/toc.json#detection-of-potential-breaches
 [AADBresp]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-breach-azure?toc=/microsoft-365/enterprise/toc.json#azures-data-breach-response
-[AADCustNotf]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-breach-azure?toc=/microsoft-365/enterprise/toc.json
+[AADCustNotf]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-breach-azure?toc=/microsoft-365/enterprise/toc.json#customer-notification
 
 [D365BN]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-breach-dynamics365?toc=/microsoft-365/enterprise/toc.json
 
