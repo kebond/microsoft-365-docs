@@ -40,5 +40,5 @@ For all the items below, only a partial list is included. For further details fo
 [beyond90days]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-action-plan#beyond-90-days--ongoing-security-data-governance-and-reporting
 [addResources]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-action-plan#learn-more
 [FAQ]: https://ico.org.uk/for-organisations/business/guide-to-the-general-data-protection-regulation-gdpr-faqs/
-[accReadiness]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-arc-office365
+[accReadiness]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-arc
 [complMgr]: https://servicetrust.microsoft.com/ComplianceManager
