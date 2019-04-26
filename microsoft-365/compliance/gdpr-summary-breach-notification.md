@@ -46,7 +46,7 @@ Details regarding breach notification for specific Microsoft products and servic
 
     * _Detection of Breaches_: Since both Microsoft and the customer have security obligations, Azure services employs a shared responsibility model to define security and operational accountabilities. Microsoft does not monitor or respond to security incidents within the customer’s realm of responsibility. Note that customer incident response may involve collaboration with Azure [customer support][AADcustSup], given appropriate service contracts. Microsoft Azure also offers various services (e.g., [Azure Security Center][AADASC]) that customers can utilize for developing and managing security incident response.
 
-        For a list of events that trigger a breach investigation in Microsoft Azure, see [Detection of Potential Breaches][AADdetPotBrch]. [Microsoft Azure Security Response][AADBresp] further details how Microsoft investigates, manages, and responds to security incidents within Azure.
+        For a list of events that trigger a breach investigation in Microsoft Azure, see [Detection of Potential Breaches][AADdetPotBrch]. [Azure and Breach Notification under the GDPR][AADBN] further details how Microsoft investigates, manages, and responds to security incidents within Azure.
 
 
     *   _Data Breach Response_: Microsoft determines appropriate priority and severity levels of a breach by investigating the functional impact, recoverability, and information impact of the incident. Priority and severity may change over the course of the investigation, based on new findings and conclusions.
