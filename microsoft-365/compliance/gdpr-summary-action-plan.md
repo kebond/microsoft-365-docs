@@ -10,7 +10,7 @@ Accountability readiness checklists are provided to conveniently access informat
 
 The checklist lists potential obligations you may have under the GDPR, and points you to information that you can use to support your organizations’ compliance. There is a specific guide for four Microsoft product and services families: Office 365, Dynamics, Azure, and Microsoft Services. For details regarding your Microsoft implementation follow the link in [Accountability readiness checklists for the GDPR][accReadiness]. You can manage the items in this checklist with [Compliance Manager][complMgr] by referencing the Control ID and Control Title under Customer Managed Controls in the GDPR tile.
 
-For all the items below, only a partial list is included. For further details follow the title link at each section.
+For all the items below, only a partial list is included. For further refer to the Accountability readiness link above.
 
 1. Conditions for Data Collection and Processing:  
  • When is consent obtained?  
