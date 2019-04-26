@@ -27,7 +27,7 @@ Initial notification will include, at least, a description of the nature of the 
 Additional information that Microsoft will include in a breach notification, if applicable and known:
  * Nature of the breach
  * Mitigation measures Microsoft is taking or proposing
- * Product, service, application involved
+ * Product, service, or application involved
  * Length of time personal data was exposed, if known
  * Volume of affected/exposed personal data records, if known
  * Sub-processor/supplier details, if one is involved in the breach
