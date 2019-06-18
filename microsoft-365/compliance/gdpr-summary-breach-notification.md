@@ -4,15 +4,9 @@ The General Data Protection Regulation (GDPR) introduces new rules for organizat
 
 This document leads you to information on the completion of Breach Notifications under the GDPR using Microsoft products and services.
 
-GDPR [terms][gdprTerms] that will be helpful in this document:
- * _Data Controller (Controller)_ – A legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.  
- * _Personal data_ and _data subject_ – Any information relating to an identified or identifiable natural person (data subject); an identifiable natural person is one who can be identified, directly or indirectly.  
- * _Processor_ – A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.  
- * _Customer Data_ – Data produced and stored in the day-to-day operations of running your business.
+## What constitute a breach of personal data under the GDPR? ##
 
-## What is a Data Breach? ##
-
-Personal data is information related to an identified, or identifiable person. A breach of data security affects the confidentiality, integrity or availability of personal data. This includes the accidental or unlawful loss, alteration, access to or unauthorized disclosure of that data.
+Personal data means any information related to an individual that can be used to identify them directly or indirectly. A personal data breach is “a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored or otherwise processed.
 
 ## Microsoft and Breach Notification ##
 
@@ -23,16 +17,6 @@ As a data processor, Microsoft will ensure that our customers are able to meet t
 Data controllers are responsible for assessing risks to data privacy and determining whether a breach requires notification of a customer’s DPA. Microsoft will provide the information needed, in conjunction with your GDPR compliance policy, to make that assessment.
 
 Initial notification will include, at least, a description of the nature of the breach, approximate user impact, and mitigation steps (if applicable). If our investigation is not complete at the time of initial notification, we will indicate next steps and timelines for subsequent communication. More information about how Microsoft detects and responds to a breach of personal data in [Data Breach Notification Under the GDPR][dataBreachNotif].
-
-Additional information that Microsoft will include in a breach notification, if applicable and known:
- * Nature of the breach
- * Mitigation measures Microsoft is taking or proposing
- * Product, service, or application involved
- * Length of time personal data was exposed, if known
- * Volume of affected/exposed personal data records, if known
- * Sub-processor/supplier details, if one is involved in the breach
-
-## Additional Considerations ##
 
 Details regarding breach notification for specific Microsoft products and services is given below.
   
@@ -57,13 +41,19 @@ Details regarding breach notification for specific Microsoft products and servic
         1. 	The 72 hour timeline may leave some incident details available. These will be provided to you as the investigation proceeds.
 
         Further details can be found in [Customer Notification][AADCustNotf].
-
-1. [Dynamics 365][D365BN]:  
+        
+3. [Dynamics 365][D365BN]:  
     Breach Notification is handled as described above for Azure.
 
-1. [Microsoft Support and Professional Services][MSPSBN]:  
+4. [Microsoft Support and Professional Services][MSPSBN]:  
     The nature of professional services means some data protection incidents may fall within the customer’s realm of responsibility. When Microsoft Professional Services identifies a data protection incident, it follows documented industry standard response plan as outlined in [Scope & Limits of Data Protection Incident Response Process][MSPSscopeLim].
-
+        
+GDPR [terms][gdprTerms] that will be helpful in this document:
+ * _Data Controller (Controller)_ – A legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.  
+ * _Personal data_ and _data subject_ – Any information relating to an identified or identifiable natural person (data subject); an identifiable natural person is one who can be identified, directly or indirectly.  
+ * _Processor_ – A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.  
+ * _Customer Data_ – Data produced and stored in the day-to-day operations of running your business.
+ 
 [GDPRhomeTopic]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr?toc=/microsoft-365/enterprise/toc.json
 [gdprTerms]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365?toc=/microsoft-365/enterprise/toc.json#terminology
 
